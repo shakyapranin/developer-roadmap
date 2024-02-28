@@ -50,10 +50,12 @@
 - SOLID
 - DRY
 - YAGNI
-## Security Basics
+## Policy and standards
 - OWASP
 - HIPPA
 - SOC2
+- COPAA
+- FHIR
 ## Versioning (GIT, SVN)
 - Branching
 - Commits
@@ -69,6 +71,7 @@
 - Integration testing
 - Functional testing
 ## Advanced Techniques
+- Framework specialization
 - State management
 - Materialized design
 - Lazy loading
@@ -86,6 +89,8 @@
 - SSR
 - PWA
 - SPA
+- Web components
+- Routing
 ## Design patterns and principles
 - GOF Design Patterns
 - Domain derived design
@@ -101,10 +106,15 @@
 ## Architectural patterns
 - Monolithic applications
 - Microservices
+- Microfrontend
 - SOA
 - Serverless
 - Service Mesh
 - Twelve Factor Application
+- Multitenancy
+- SaaS
+- PaaS
+- FaaS
 ## Persistence Advanced
 - Sharding
 - Replication
@@ -113,6 +123,8 @@
 - Real time databases
 - Graph databases
 - Key value databases
+- In memory databases
+- Wide column databases
 ## Scalability
 - Monitoring
 - Telemetry
