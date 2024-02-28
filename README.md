@@ -82,3 +82,46 @@
 - Search engines (ElasticSearch)
 - Cloud service integrations (AWS)
 - Third party integrations (Payment gateway, Email service providers)
+- GRPC
+- SSR
+- PWA
+- SPA
+## Design patterns and principles
+- GOF Design Patterns
+- Domain derived design
+- Test driver development
+## Network Basics
+- Cloud networking essentials
+## DevOps Basics
+- DevOps essentials
+- Containers and containerization
+- Docker basics
+- Continious integration and deployment
+- K8 basics
+## Architectural patterns
+- Monolithic applications
+- Microservices
+- SOA
+- Serverless
+- Service Mesh
+- Twelve Factor Application
+## Persistence Advanced
+- Sharding
+- Replication
+- Disaster recovery
+- Time Series
+- Real time databases
+- Graph databases
+- Key value databases
+## Scalability
+- Monitoring
+- Telemetry
+- Instrumentation
+- Telemetry
+- Graceful degradation
+- Throttling
+- Circuit Breaker
+- Back pressure
+## Refactoring
+- Strangler pattern
+- Breaking down monoliths
